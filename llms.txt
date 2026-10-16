@@ -50,9 +50,14 @@ page, and every notice/filter is a stable URL so any single notice or subset is 
 - [प्रहरी](https://loksewas.com/?q=प्रहरी)
 - [स्वास्थ्य](https://loksewas.com/?q=स्वास्थ्य)
 - [लोकसेवा](https://loksewas.com/?q=लोकसेवा)
+- [Upasachiv vacancy](https://loksewas.com/?q=Upasachiv vacancy)
+- [Vigyapan](https://loksewas.com/?q=Vigyapan)
+- [Under secretary](https://loksewas.com/?q=Under secretary)
+- [उपसचिव विज्ञापन](https://loksewas.com/?q=उपसचिव विज्ञापन)
 
 ## Current notices
 
 - [उपसचिव सबै, स्वास्थ्य नवौं र मानवअधिकार अधिकृत द्वितिय श्रेणी (आप्र, खुला)](https://loksewas.com/n/vacancy-federal-208384/) — बिज्ञापन, संघीय, अप्राविधिक/प्राविधिक — बिज्ञापन मिति 2083 असोज 28; अन्तिम म्याद 2083 कार्तिक 17
 - [कर्णाली पाँचौ तह (बढुवा, खुला, आन्तरिक)](https://loksewas.com/n/vacancy-karnali-208384/) — बिज्ञापन, कर्णाली, अप्राविधिक/प्राविधिक — बिज्ञापन मिति २०८३ असोज २७; अन्तिम म्याद २०८३ कार्तिक १६
 - [न्याय, कानून, सरकारी वकिल सिफारिस तथा एकमुष्ठ योग्यताक्रम](https://loksewas.com/n/federal-1669316696-208283/) — सिफारिस, संघीय, न्याय — नं. 16693-16696/2082/83; प्रकाशन मिति 2083 असोज 23
+- [नेपाल प्रहरी, प्रहरी सहायक निरीक्षक (प्र.स.नि.) लिखित नतिजा](https://loksewas.com/n/written-result-federal-06-208283/) — लिखित नतिजा, संघीय, प्रहरी — नं. 06/2082/83; प्रकाशन मिति 2083 जेठ 29, 30 र 31

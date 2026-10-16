@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://loksewas.com/</loc><lastmod>2026-10-16</lastmod><changefreq>hourly</changefreq><priority>1.0</priority><image:image><image:loc>https://loksewas.com/icon.svg</image:loc></image:image></url>
-  <url><loc>https://loksewas.com/type/vacancy/</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://loksewas.com/type/vacancy/</loc><lastmod>2026-10-16</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://loksewas.com/type/written-result/</loc><lastmod>2026-10-16</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://loksewas.com/type/cat/</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://loksewas.com/province/federal/</loc><lastmod>2026-10-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://loksewas.com/province/lumbini/</loc><lastmod>2026-10-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://loksewas.com/province/karnali/</loc><lastmod>2026-10-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://loksewas.com/job/upasachiv-vacancy/</loc><lastmod>2026-10-14</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://loksewas.com/job/adhikrit-vacancy/</loc><lastmod>2026-10-14</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://loksewas.com/n/vacancy-lumbini-208384/</loc><lastmod>2026-10-16</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://loksewas.com/n/written-result-federal-06-208283/</loc><lastmod>2026-10-16</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://loksewas.com/n/vacancy-federal-208384/</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://loksewas.com/n/vacancy-karnali-208384/</loc><lastmod>2026-10-13</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>

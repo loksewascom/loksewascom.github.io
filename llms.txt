@@ -1,6 +1,6 @@
-# Loksewas.com — लोकसेवा बिज्ञापन (Nepal government job notices)
+# Loksewas.com — लोकसेवा विज्ञापन (Nepal government job notices / vacancies)
 
-> नेपाल लोकसेवा आयोग र सबै सरकारी कार्यालयका पछिल्ला बिज्ञापन, खरिदार, नायब सुब्बा, सुब्बा, अधिकृत र उपसचिव पदका सूचना, लिखित/अन्तिम नतिजा तथा परीक्षा केन्द्र — कोशी, मधेश, बागमती, गण्डकी, लुम्बिनी, कर्णाली, सुदूरपश्चिम प्रदेश। Latest Nepal loksewa bigyapan, kharidar, nayab subba, subba, officer and under secretary government job notices and results.
+> नेपाल लोकसेवा आयोग र सबै सरकारी कार्यालयका पछिल्ला विज्ञापन (बिज्ञापन), खरिदार, नायब सुब्बा, सुब्बा, अधिकृत र उपसचिव पदका सूचना, लिखित/अन्तिम नतिजा तथा परीक्षा केन्द्र — कोशी, मधेश, बागमती, गण्डकी, लुम्बिनी, कर्णाली, सुदूरपश्चिम प्रदेश। Latest Nepal loksewa bigyapan/vigyapan vacancy, kharidar, nayab subba, subba, section officer (adhikrit), upasachiv / under secretary and other government job notices and results.
 
 Loksewas.com lists the latest Nepal loksewa (Public Service Commission) and other
 government office notices, vacancies, results and exam-center information. It is a
@@ -11,15 +11,21 @@ page, and every notice/filter is a stable URL so any single notice or subset is 
 - Fetch the home page for the full list, then follow each notice's own page.
 - One notice = its own page URL (see the links below).
 - Filter the home page with ?q= (search), ?ty= (type) or ?prov= (province).
+- Search is spelling-tolerant: विज्ञापन and बिज्ञापन, वि/वी, and multi-word
+  English queries like "upasachiv vacancy" all match.
 
 ## Sections
-- [Notices list](https://loksewas.com/): all current बिज्ञापन / सूचना / नतिजा, newest first
+- [Notices list](https://loksewas.com/): all current विज्ञापन / सूचना / नतिजा, newest first
 - [RSS feed](https://loksewas.com/feed.xml): machine-readable updates
 - [Sitemap](https://loksewas.com/sitemap.xml)
 - [robots.txt](https://loksewas.com/robots.txt)
 
+## Popular searches (dedicated pages)
+- [उपसचिव विज्ञापन](https://loksewas.com/job/upasachiv-vacancy/)
+- [अधिकृत विज्ञापन](https://loksewas.com/job/adhikrit-vacancy/)
+
 ## By type
-- [बिज्ञापन](/type/vacancy/)
+- [विज्ञापन](/type/vacancy/)
 - [लिखित नतिजा](/type/written-result/)
 - [अन्तिम नतिजा](/type/final-result/)
 - [परीक्षा केन्द्र](/type/exam-center/)
@@ -57,7 +63,8 @@ page, and every notice/filter is a stable URL so any single notice or subset is 
 
 ## Current notices
 
+- [लुम्बिनी प्रदेश, नवौं तह, अन्तरतह र खुला](https://loksewas.com/n/vacancy-lumbini-208384/) — विज्ञापन, लुम्बिनी, अप्राविधिक/प्राविधिक — विज्ञापन मिति 2083 असोज 30; अन्तिम म्याद 2083 कार्तिक 19
 - [नेपाल प्रहरी, प्रहरी सहायक निरीक्षक (प्र.स.नि.) लिखित नतिजा](https://loksewas.com/n/written-result-federal-06-208283/) — लिखित नतिजा, संघीय, प्रहरी — नं. 06/2082/83; प्रकाशन मिति 2083 जेठ 29, 30 र 31
-- [उपसचिव सबै, स्वास्थ्य नवौं र मानवअधिकार अधिकृत द्वितिय श्रेणी (आप्र, खुला)](https://loksewas.com/n/vacancy-federal-208384/) — बिज्ञापन, संघीय, अप्राविधिक/प्राविधिक — बिज्ञापन मिति 2083 असोज 28; अन्तिम म्याद 2083 कार्तिक 17
-- [कर्णाली पाँचौ तह (बढुवा, खुला, आन्तरिक)](https://loksewas.com/n/vacancy-karnali-208384/) — बिज्ञापन, कर्णाली, अप्राविधिक/प्राविधिक — बिज्ञापन मिति २०८३ असोज २७; अन्तिम म्याद २०८३ कार्तिक १६
+- [उपसचिव सबै, स्वास्थ्य नवौं र मानवअधिकार अधिकृत द्वितिय श्रेणी (आप्र, खुला)](https://loksewas.com/n/vacancy-federal-208384/) — विज्ञापन, संघीय, अप्राविधिक/प्राविधिक — विज्ञापन मिति 2083 असोज 28; अन्तिम म्याद 2083 कार्तिक 17
+- [कर्णाली पाँचौ तह (बढुवा, खुला, आन्तरिक)](https://loksewas.com/n/vacancy-karnali-208384/) — विज्ञापन, कर्णाली, अप्राविधिक/प्राविधिक — विज्ञापन मिति २०८३ असोज २७; अन्तिम म्याद २०८३ कार्तिक १६
 - [न्याय, कानून, सरकारी वकिल सिफारिस तथा एकमुष्ठ योग्यताक्रम](https://loksewas.com/n/federal-1669316696-208283/) — सिफारिस, संघीय, न्याय — नं. 16693-16696/2082/83; प्रकाशन मिति 2083 असोज 23
